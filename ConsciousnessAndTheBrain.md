@@ -5,7 +5,7 @@ Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts
 By Stanislas Dehaene
 
 ## Notes
-### Summary
+### Review
 - some neurons encode "horizontal" lines vs "vertical" lines
   - if unconscious, mismatches of neurons firing is not resolved
   - if conscious, after 120-140ms all neurons in lower layers start to encode "diagonal" for a diagonal line
@@ -50,3 +50,20 @@ By Stanislas Dehaene
   - Radio covered in triangles and squares and we only see the triangles and squares but not the letters
   - We can't see "radio" even if we're trying
 - Cannot see if only 40ms, can see if 60ms
+- if "radio" was short enough and the mask was long enough we only see the mask
+  - "radio" is disregarded by the brain since the brain is weighing the evidence of what it saw and "radio" didn't have enough
+- We think we recognize a word "as a whole" but actually we're doing independent letters/shapes based analysis that we're unaware of and putting the pieces together
+- Out of body experiences can be triggered using stimulation
+  - Patients with anesthesia, put pictures on top of cabinents that can only be seen from above. Patients think they had an out of body experience viewing from above but they don't see the pictures
+
+### Chapter 2
+- reflex arc, unconscious written images affect us
+  - automatic reflexes make decisions subconsciously (walking, becoming agry and wanting revenge)
+  - Many desires (like a baby wanting milk) is inaccessible to introspection)
+- Virtually all of the brain can take place in conscious or unconscious thought
+- Ammonesia patient procked with pin when stacking his hand, the next day she forgot about that but she still refused to shake his hand
+- conscious vision pathway damaged but unconscious in tact resulting in reflexes to sight working while unaware of seeing anything
+- RADIO-radio primes recognition speed as much as radio-radio while house-radio does not
+- ranger-anger does not prime recognition speed thus order matters, it's not just a single convolution loop or a nearest neighbor search but instead a recognition process
+- **We don't see the world as pixels but as a highly processed representation**
+  - We take into account 3D, subconscious shadow removal, focusing, using memory/context all connecting subconsciously
