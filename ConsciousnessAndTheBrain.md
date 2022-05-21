@@ -67,3 +67,30 @@ By Stanislas Dehaene
 - ranger-anger does not prime recognition speed thus order matters, it's not just a single convolution loop or a nearest neighbor search but instead a recognition process
 - **We don't see the world as pixels but as a highly processed representation**
   - We take into account 3D, subconscious shadow removal, focusing, using memory/context all connecting subconsciously
+- checkerbox shadow, the dark tile in light looks really dark, the light tile in the shadow looks light but they are the same color
+  - the brain parses the scene into objects, sees the shadow and subtracts the shadow from the image, letting you see the true colors of the object without the shadow
+- Only expert chess players can evaluate a chessboard and remember its configuration because they automatically parse it into meaningful chunks
+  - This is a trained ability
+  - Simpler game can be flashed for only 20ms and it still influences the expert's decision
+- If someone says "da" but their mouth says "ga" we think they said "ga"
+- New words/phrases require conscious attention but overlearned phrases can be understood second hand
+- A glance at each word is enough to place it within the overall structure of the story/paragraph
+- The brain unconsciously processes all possible meanings of words and consciously attends to one at a time (or drops some)
+- Priming effect of emotionally similar words did not help people who saw both words
+  - However "tumor" primed "tulip" to be positive which would hint that either it's not priming by meaning or that "tumor" didn't make it far enough to override "tulip" from being positive
+- "four" primes strongly 4 for asking if the number is less than five
+  - "three" primes 4 less so
+  - "two" primes 4 even more less so and so on
+  - This is evidence that the brain primes meaning
+- Hidden flashed words caused an unconscious emotional dip (takes > 0.5s)
+- N400 brain wave is large for a large degree of absurdity of the words in a sentence (unexpected words together in a sentense creates a large N400). This too can be triggered by flashing words not picked up consciously
+- Unconscious words are not as influential as conscious ones
+- Consciousness requires attention but attention does not require consciousness. We unconsciously decide what information should be alerted to the conscious level
+  - Flashing light unconsciously makes you more attentive in that location
+  - A hidden picture slows you down if it is irrelevant to the task at hand
+    - A conscious distractor can be voluntarily extinguished negating the slow down
+- Bottom-up input to brain process of the mind shattered this consensus
+  - "radio" priming "radio" depends on how much attention is allocated to that stimuli
+    - Thus the top (conscious) partly allocates how much attention the lower levels can allocate
+    - Both the high level and lower levels amplify attention
+- You can interpret a noisy audio recording after hearing the answer but not before
