@@ -133,3 +133,23 @@ By Stanislas Dehaene
       - **Similar to a transformer and RNN: the input i_t5 is transformed into a compact representation by a group of neurons o_t5, now those neurons keeping firing o_t5 while another group of neurons hold on to o_t6. But instead we have a fixed working memory size so we might store o_t5, o_t9 and o_t10 dropping the remainder**
       - We also use working memory for planning. Brain damage to this region causes people to lose their planning abilities
       - **Play a tone before puffing air in a person's eye. If the puff comes immediately after the tone (coincide based training), our reflexes occur unconsciously. However if you add a delay between the tone and the puffing air, our reflexes only occur if we consciously become aware. Elderly people, people with amnesia or distracted people show no reflexes/conditioning)**
+- Consciously we are aware of the steps we take using our working memory to solve a problem
+  - Ex: 12 * 13 = 12 * 12 + 12 = 144 + 12 = 156
+  - However this is slow: the brain must contain a "router" that broadcasts information to and from coroutines/substeps/subfunctinos
+- Production system to solve AI
+  - contains a database = working memory
+  - lots of if-then rules
+  - At each step examine whether a rule matches the current state of the working memory
+    - if multiple matches then they compete under the prioritizing system
+    - winning rule activates and changes the working memory
+- Turing machine only captures the conscious but its missing the machine learning paralell unconscious
+  - brain computes over entire probability distributions (sampling neuron activations) rather than discrete symbols like a computer does
+  - brain has self modifiable organization
+  - `n+2 > 5` the brain already started with `n > 5` before receiving all the information vs a computer waits for the entire information then processes. Tests show two step calculations require consciousness whereas the single step `n > 5` can be done unconsciously by flashing
+- unconscious generates sophisticated hunches but the conscious follows a ration strategy, step by step. Neural networks generate hunches, but the conscious will be needed to explain/rationalize
+- Language as a conscious "brief". Compresseed and transmitted
+  - The receiver wants a summary of the aspects that are also true for the receiver. This would not be the case with a fully descriptive picture because our experiences are different
+- Within the brain signals should be weighted by that neuron's noise level. Same for combining people's opinions
+- Gossip = brain tracking each person's noise level, their reliability
+- Social parts of the brain activate both when we reflect on ourselves and when we reflect on others
+- human ability for introspecting and social sharing and inspecting others allows us to better use the cascading neuron President report from the CIA analysts
