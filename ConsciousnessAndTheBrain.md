@@ -94,3 +94,42 @@ By Stanislas Dehaene
     - Thus the top (conscious) partly allocates how much attention the lower levels can allocate
     - Both the high level and lower levels amplify attention
 - You can interpret a noisy audio recording after hearing the answer but not before
+- Attention assigns a value to each stimulus or potential object of thought
+  - Valuation calls upon neural networks within the basal ganglia (base of the brain)
+  - This too can operate unsconsciously, even for a symbolic value such as money
+  - bassal ganglia attached relevant values to each shape flashed unconsciously
+- Unconscious mathematics, like coming up to a solution when you take a break and do something else
+- draw from two decks, one advantageous one disavantageous. Before becoming aware of a hunch, their hands begin to sweat before taking a card from the bad deck
+- participants to choose a car among 4, then half were distracted and half were told to consciously focus on the original problem. The distracted half picked the best car better (60 percent vs 22 percent)
+- unconscious processes excel in assigning values to many items and averaging them to reach a decision vs conscious excels on focusing
+- Falling asleep after trying a problem with a unconscious shortcut pattern doubled the probability they would find the hidden shortcut pattern
+- Thought that conscious was for controlling operations, avoid automatic responses, task switching and detecting errors but now seen that we can do this unconsciously
+  - Ex unconscious "stop" signal occasionally caused the user to stop pressing the bottom without knowing why
+- Consciousness solves a problem that the specialized parallel systems of unconsciousness could not
+- Only the conscious mind could carefully verify, step by step the discovery of the unconscious mind
+  - conscious mind resolves conflicts, organizes memories and prevents the user from walking in two directions at the same time = focus
+### Chapter 3
+- Conscious information is stable
+- Conscious information is sampled (small portion of the immense sensory data stream)
+- Conscious information is controlled (careful processes/functions can be serially executed)
+- Conscious information is purposeely broadcasted (communicated to other humans)
+- army of unconscious workers sifting through piles of data. Conscious executives sitting at the top examining only a brief of the situation slowly makes conscious decisinos
+- Below the conscious stage, unconscious processors extract detailed and complete interpretation of the environment as nearly optimal statisticians to calculate the probability that a given property holds true in the outside world
+- At some point a dictatorial processes needs to colapse all the uncertainties into a single conscious sample so that we can move on to t+1
+- bayesian theory: if someone draws three aces from a deck of fifty-two cards, what is the likelihood that the deck was rigged and comprised more than four aces: reverse inference: inferring the hidden cause given an observation
+  - hypthesis is that the brain acts as a bayesian statistician
+- **See a plate, a single neuron only perceives a small segment of the ellipse. This information is compatible with a broad variety of shapes and motion patterns. Once neurons start talking to each other they cast their votes and the entire population converges on "plate" that is a "circle" and not a "potato" that is "oval like shape"**
+  - Once you eliminate the impossible you are left with the truth
+- **Motion detection in the brain**
+  - **Each neuron sees a part moving through a peekhole. Take a stick at a 45 degree angle and move it right. Through the peekhole it looks like the stick is moving up and to the right. However combined with all the peekholes to all parts of the stick you can infer that the stick is moving to the right and cannot be moving up**
+  - Only a single direction of motion satisfies the contraints of rigid motion (it didn't dissappear and it didn't deform)
+  - 100ms to see the motion + 100ms to change their mind and encode the global direction
+  - Under anesthesia the loss of consciousness causes them to never encode the global direction (never generates a single coherent interpretation of the outside world)
+  - Even though we encoded the global direction we are still aware of the probabilties and able to easy switch to the alternative solution (alternative global direction) especially when we are uncertain
+    - Like quantum physics where attending to something causes it to collapse into a state, but not observing causes it to be either
+  - **hierarchical reporting up to the conscious level. Just like the FBI analysts report to their boss who writes a report to his boss, ..., to the president and then comes back down the chain again**
+  - **Memory**
+    - Working Memory: prefrontal neurons implement an active memory. They are still firing long after the picture is gone and continue to fire throught the short-term memory task
+      - **Similar to a transformer and RNN: the input i_t5 is transformed into a compact representation by a group of neurons o_t5, now those neurons keeping firing o_t5 while another group of neurons hold on to o_t6. But instead we have a fixed working memory size so we might store o_t5, o_t9 and o_t10 dropping the remainder**
+      - We also use working memory for planning. Brain damage to this region causes people to lose their planning abilities
+      - **Play a tone before puffing air in a person's eye. If the puff comes immediately after the tone (coincide based training), our reflexes occur unconsciously. However if you add a delay between the tone and the puffing air, our reflexes only occur if we consciously become aware. Elderly people, people with amnesia or distracted people show no reflexes/conditioning)**
