@@ -25,6 +25,7 @@ By Stanislas Dehaene
   - Cables mized + tangled, cable isolated added later (ex: puberty)
 
 ### Chapter 1
+Consciousness Enters the Lab
 - When enough brain regions agree they synchronize, bursts of high level activation
   - creates large workspace to keep important data in mind for focusing
   - is not input-output but broadcasting even in full darkness
@@ -57,6 +58,7 @@ By Stanislas Dehaene
   - Patients with anesthesia, put pictures on top of cabinents that can only be seen from above. Patients think they had an out of body experience viewing from above but they don't see the pictures
 
 ### Chapter 2
+Fathoming Unconscious Depths
 - reflex arc, unconscious written images affect us
   - automatic reflexes make decisions subconsciously (walking, becoming agry and wanting revenge)
   - Many desires (like a baby wanting milk) is inaccessible to introspection)
@@ -109,6 +111,7 @@ By Stanislas Dehaene
 - Only the conscious mind could carefully verify, step by step the discovery of the unconscious mind
   - conscious mind resolves conflicts, organizes memories and prevents the user from walking in two directions at the same time = focus
 ### Chapter 3
+What is Consciousness Good For?
 - Conscious information is stable
 - Conscious information is sampled (small portion of the immense sensory data stream)
 - Conscious information is controlled (careful processes/functions can be serially executed)
@@ -153,3 +156,41 @@ By Stanislas Dehaene
 - Gossip = brain tracking each person's noise level, their reliability
 - Social parts of the brain activate both when we reflect on ourselves and when we reflect on others
 - human ability for introspecting and social sharing and inspecting others allows us to better use the cascading neuron President report from the CIA analysts
+
+### Chapter 4
+The Signatures of a Conscious Thought
+- functional magnetic resonance imaging (fMRI) uses the fact that brain cells are coupled with blood cells.
+  - When a neuronal circuit increases, surrounding glial cells compensate for the heightened energy consumption and open up local arteries
+  - 2-3 seconds later blood flow increases bringing in more oxygen and glucose and thus red blood cells which contain hemoglobin.
+  - fMRI detects the properties of the hemoglobin
+    - hemoglobin without oxygen acts as a small magnet
+    - hemoglobin with oxygen does not act as a magnet
+    - fMRI machines are tuned to pick up very small distortions in magnetic fields
+  - fMRI on its own cannot track the time course of neuron firing but can be coupled with EEG and MEG
+- early visual areas activity activated by all images conscious or unconscious
+- even higher levels of the brain were activated with unconscious masked words
+- however once it met the **conscious theshold, brain activation was multiplied by 12**
+- suggesting that neurons/brain areas exchanged messages that reinforced each other until they turned into an unstoppable avalanche
+- people report all or nothing. Either they see the entire word or they don't see any of the letters. This suggests that the unconscious signals need to form an avalanche strong enough to bring it to conscious attention
+- **unconscious activity waves continued to reverberate within the brain for ~0.5 seconds**
+  - This is like an RNN for 0.5 seconds and if it doesn't get reamplified it dies out completely
+- If the brain wave for conscious attention to the first image was bigger and brain wave for the second image was smaller then the subjects were more likely to miss the second image -> can't attent to two things at once
+  - Sometimes we do see the second but the second brain wave was delayed
+- **Don't text and drive**
+  - Even reflex responses are delayed such as hitting the brakes when you see the taillights of the car in front of you when your conscious mind is distracted
+- network of neurons that excite one another like the first few handclaps bursts into an applause
+  - pyramidal neurons in the upper layers broadcast their excitation to their lower level workers. Once this boardcast exceeds a threshold it becomes self-reinforcing
+- Brain generates synchronized neuronal oscillations (waves) for communication
+  - vast neuronal forests it would be easy to lose track of a small assembly of active neurons (**like today's neural nets do**)
+  - if they shout in unison, their voice is more likely to be hear and relayed.
+  - synchrony opens up a channel between distant neurons. they oscillate together to share the same window of opportunity during which they send and receive signals to each other
+    - **this is like a thread grabbing the OS kernel to do its work together**
+  - unconscious synchronizes too but only temporary and die out
+  - usually at 13-30hz or 3-8 hz
+- How do they encode a conscious representation?
+  - frequency analysis is not the full answer
+    - the brain doesn't oscillate at a precise frequency
+    - frequencies within frequencies
+- forward moving wave is sensory information climbing the hierarchy to more abstract representations
+- backward wave could be an attention signal which amplifies important incoming activity or a confirmation signal (**ie a gradient**)
+  - unconscious trials dominated by top-down causal signals desperately interrogating sensory areas (ie strong gradient)
