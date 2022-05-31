@@ -194,3 +194,27 @@ The Signatures of a Conscious Thought
 - forward moving wave is sensory information climbing the hierarchy to more abstract representations
 - backward wave could be an attention signal which amplifies important incoming activity or a confirmation signal (**ie a gradient**)
   - unconscious trials dominated by top-down causal signals desperately interrogating sensory areas (ie strong gradient)
+- **Conclusions so far**
+  - conscious perception results from a wave of neuron activity that tips the cortex over its ignitation level due to enough signal/agreement
+  - a conscious stimulus triggers a self-amplifying of back and forth amplifying avalanche of neuron activity that ignites many regions into a tangled state
+  - during that conscious state (~300ms after the stimulus input began), the frontal region are informed of sensory inputs bottom up, but these regions also send massive projections top down as feedback/communication
+  - this results in distributed activation and long distance synchrony
+- neuron fluctations sometimes fit with or fight against sensory input causing faster or slower times to beecome conscious or increase/decrease the amount of masking required to be conscious
+- consciousness stabilizes our perceptions (like how we can compare r in small font and r in large font) (also like how we compensate for our own motion while watching an object move)
+- **individual neurons can be extraordinarily selective to a pecture, name and conecpt. Just one or two pictures triggered a given cell. One neuron discharged to pictures of Bill Clinton but no other person**
+- We can train a computer with very high accuracy what picture the person was seeing by which neurons were active
+- many neurons only fire if only if the certain pictures is consciously seen even if the masked vs unmasked image was shown for the same amount of time
+- conscious information is distributed within many cellss
+- object regonition for these conscious cells are invariant to location
+- **there are also "place cells" that fire whenever an animal occupies a certain location in space (ex: northwest corner of a familiar room)**
+- Using stimulation with intracranial electrodes caused a patient to smeel burnt toast, or to hear a full ochestra playing
+  - suggests that every cortical site holds its own specialized piece of knowledge
+  - the initial induced activity in unconscious, only if the activation spreads does it become conscious thus the stimulation could only be triggering other regions of the brain that actually contain the knowledge
+- the induced activation must loop back to the primary visual cortex before being consciously perceived
+  - consciousness lives in the loops
+- suggests that when we hold an image in mind our brain keeps it alive in the circular firing of neurons in the visual cortex at a subthreshold level ready to be reenacted
+- consciousness needs long circular loops
+- short circular loops used for early unconscious visual operations like piecing together a scene
+- reductinist conclusion, all our conscious experiences result from the activity of circuits made up of reproducible neuronal signatures. The firing is synchronized and spreads until it ingnites into consciousness
+
+### Chapter 5
