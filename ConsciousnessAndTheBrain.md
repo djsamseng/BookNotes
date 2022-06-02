@@ -218,3 +218,43 @@ The Signatures of a Conscious Thought
 - reductinist conclusion, all our conscious experiences result from the activity of circuits made up of reproducible neuronal signatures. The firing is synchronized and spreads until it ingnites into consciousness
 
 ### Chapter 5
+- consciousness allows us to attend to information and keep it active and broadcast it
+- consciousness is a global workspace to evaluate information, simulate it, memorize it, or plan using it
+- just like the kinetic theory of gasses allows us to explain how gasses form from the motino of atoms in a gas we can explain consciousness and intelligence from the firing of neurons
+- awareness = information entered an area of the brain that makes it accessible to the rest of the brain (RAM)
+- one mental representatino is selected because of its relavance to our present goals
+- airplane pilots could not easily attend to two trains of speach one into each ear
+- computers are narrow minded, and function has a fixed set of inputs/outputs with fixed meaning, they cannot adjust themselves to the global workspace context
+  - functions also can't share whats inside of them with others
+- our cortext has a modular set of processors and flexible routing system that acts upon neurons
+  - patches of neurons can be dedicated to specific motor acts or to a particular face of a person
+- modularity: different domains of knowledge require different tunings of the cortex
+- **sensory areas are more choosey with a smaller set of connections between neurons mostly with their neighbors**
+  - early visual regions are arranged in a coarse hierarchy. V1 to V2 to V3 to V4 (layers) and so on
+  - higher association areas conectivity loses its nearest-neighbor and point-to-point connections and has long distance connections. These areas also contain reciprocal projections, if A messages B then B also messages A. They also tend to form triangles A to B to C to A
+- humans have more long distance connections in higher layers than other primates. More branched and more spines.
+- **FoxP2 genes, responsible for building neurons, dendrites, axons and synapses allows humans to grow pyramidal neurons. When injected into mice they also grew a greated facility to learn**
+  - pyramidal neurons = cell is pyramid shape with lots of long dendrites both on the fat bottom side of the pyramid and the skinny top side of the pyrammid
+  - these neurons may be talking to 15k other neurons
+  - good for collecting information from anywhere once its deemed relevant enough to enter the global workspace and broadcast it back to thousands of sites
+- **incoming image trace**
+  - initial layers clean up the image and compress it
+  - then transmitted to the "face clusters" neurons that are tuned to faces - still unconscious
+  - then long distance axons allow the information to be dispatched anywhere
+  - sent to the language network where words begin to be attached to the incoming visual information
+  - it can then enter the global consciousness workspace and circulate and be held in working memory
+- **grid cells**
+  - fire at regular intervals allowing animals to understand their position in space by storing and integrating location distance and direction
+  - triangular regions aranged periodically equidistant from each other that cover the space the animal is in
+  - layer 2 fires based on position but not based on which direction the animal is facing vs 3,4 and 5 they fire based off of the animal's direction
+- fire extenguisher encoded by groups of a few hundred neurons
+  - group of a few hundred neurons activate for a particular part (handle, body, hose, etc)
+  - hierarchical, three groups activate, one for each of eyes, nose and hair conspire together to activate a fourth group coding for the presense of a face
+  - however we also see activity going inside a layer of heirarchy and also top down and bottom up. This allows for more stability for a longer period of time of producible activation patterns
+- **recurrency allows for a convergence to a consensus**
+  - **recurrency is the training/update rule, not gradients**
+- How do neurons get attached together? Ex: eyes and mouth are related, how does this connection form?
+  - global workspace are hubs that send/receive projections from distant regions of the brain integrating into a representation of the current state/thought. **This global interpretation could be sent back to the sensory areas thus connecting them via that global interpretation**
+- consciousness is when we hold that state for long enough
+  - we need to hold multiple things in consciousness at a time. Thus each variable has its own frequency. The variable for hair color has all of its neurons activate at t0, t10, t20. The variable for hair shape has all of its neurons activate at t1, t11, t21. The variable for what I'm trying to tell that person has its neurons activate at t2, t12, t22
+  - **what if the voltages are the opposite? A conscious "avalanche" is actually a lot of neurons _not_ firing and thus allowing us to focus**
