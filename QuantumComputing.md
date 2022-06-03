@@ -11,8 +11,8 @@ Entanglement = If two qbits are entangled, and we effect one (A), the other (B) 
 With a quantum computer we can take a quantum bit (qbit) A and entangle it with other qbits B,C,D,.. etc. Now feed A through a quantum gate to change its PA(0). PB(0), PC(0), PD(0), etc. are all effected. Thus by putting a SINGLE qbit through a SINGLE quantum gate, we've done calculations on ALL qbits. The idea here is that as we keep operating on this SINGLE qbit, we keep doing calculations on ALL qbits.
 
 Ok so how does this help us with our original problem (finding the cause of M interesting states out of N possible states)?
-1. Create qbits (input vector) to represent all N possible states. If this were a classical vector it would represent just a single combination of Value(die1) and Value(die2).
-2. Create qbits (output vector) to represent the sum of die1 + die2 for all possible states of Value(die1) and Value(die2)
+1. Create qbits (input vector) to represent all N possible states. If this were a classical vector it would represent just a single combination of Value(die1) and Value(die2). Ie [5,6] in bits.
+2. Create qbits (output vector) to represent the sum of die1 + die2 for all possible states of Value(die1) and Value(die2). Ie [2,3,4,5,6,7,8,9,10,11,12] in bits.
 3. Create a qbit to represent whether or not it's interesting (sum=3) for the current value of the output vector (#2)
 4. Feed the input vector (#1) through a quantum circuit. Classically this would calculate the sum of die1 + die2 = 12. So set the 12th element in the output vector to be 1 and all other elements to be 0. This says that this value of die1 and die2 has 100% probability to be 12 and 0% probability to be something else.
 5. Do some quantum shenanigans
