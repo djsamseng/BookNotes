@@ -258,3 +258,36 @@ The Signatures of a Conscious Thought
 - consciousness is when we hold that state for long enough
   - we need to hold multiple things in consciousness at a time. Thus each variable has its own frequency. The variable for hair color has all of its neurons activate at t0, t10, t20. The variable for hair shape has all of its neurons activate at t1, t11, t21. The variable for what I'm trying to tell that person has its neurons activate at t2, t12, t22
   - **what if the voltages are the opposite? A conscious "avalanche" is actually a lot of neurons _not_ firing and thus allowing us to focus**
+- **computer simulation of consciousness and neurons**
+  - started with integrate and fire neurons writed into cortical columns
+    - columns like how neurons lie on top of one another perpendicular to the surface of the cortex. These columns are tightly interconnected, share similar responses and originate from divisions of the same founder cell
+  - created a thalmus of multiple nuclei each strongly connected with a cortex section or with a group of cortical locations
+  - four heirarchical regions linked by feed-forward and long distance connections. Stronger/longer stimulation resulted in global ignition, top down connections amplified the input and led to a second wave of long-lasting activation
+  - at the sensory, perception operated in parallel (audio and video simultaneously)
+  - projected the sensory to send, third and fourth levels
+  - long-distance feedback projections allowing highever levels to send excitatory support to the sensory first level that initially excited them
+  - show it an image, columns encoding the perceived object ignited. Due to feedback connections the neurons coding for the same perceptual input exchanged mutually reinforcing excitatory signals igniting activity and inhibiting the alternate percept (0/1 classifier)
+- phase transition = transformation of a physical system from one state to another (ex: water into ice)
+- spontaneous neuronal activity also occurred in the simulation
+  - without any input, occasionally a global ignition would still occur triggered by random events at their synapses (ie the synapses meet a certain critieria ex: one neuron might fire if all its inputs are zero)
+  - stimulus invoked energy in the brain is probably < 5%
+  - this explains attentional blink and why priming has such a big effect
+- **during brain development the relevant patterns are preserved while the inappropriate ones are weeded out (since they aren't reinforced = high level of disagreement with spontaneous and sensory vs revelant patterns have strong agreement)**
+  - early on neurons acquired the ability to self-activate and spontaneously discharge a spike. Filtered and amplified by neuron connections and feedback circuits this turns into purposeful exploratory behavior
+  - random noise from thermal noise can cause neurons to spontaneously discharge (unlinke binary 0/1s)
+- unconscious = preconscious
+- global workspace = single thought at a time
+  - conscious thought = high strength top-down amplification
+  - preconscious stimulus = high strength no amplification (may be held for later processing)
+  - subliminal stimulus = weak strength
+  - knowledge = encoded in connections or micropatterns of brain activity (ie the neurons for an apple are likely to activate the neurons for red and food)
+  - disconnected patterns = neurons responsible for breathing that are disconnected from the global workspace of consciousness
+  - to become conscious it has to be re-encoded by a specific set of neurons - not all neurons belong to the global workspace
+- **training makes us aware of senses. Before training senses wouldn't make it up to the global workspace. After training important faint sensory inputs are amplified**
+  - millions of synapses are formed or destroyed every day
+    - sampling statistics of the world and adapting connections
+  - memories lie dormant for years, their content compressed into a set of synapses. to retrieve memories we need to convert them from dormant to active. to retrieve we promote the reenactment of the pattern of neuronal firing that caused them. **a conscious memory is just an old conscious moment a reconsturction of a precise pattern of activation that once existed**
+    - we can decode "John thinks he is clever" in that he=John. We don't know why because the knowledge is in the wrong format for conscious access
+    - 24x31 is preformed step by step. Individual cells encode our intentions, plans, individual steps.
+    - grammar is implemented by bundles of connections linking all around the brain. It's too much to be consciously encoded
+### Chapter 6
