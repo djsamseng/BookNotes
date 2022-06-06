@@ -291,3 +291,82 @@ The Signatures of a Conscious Thought
     - 24x31 is preformed step by step. Individual cells encode our intentions, plans, individual steps.
     - grammar is implemented by bundles of connections linking all around the brain. It's too much to be consciously encoded
 ### Chapter 6
+- stroke = rupterure or plugging of a brain artery, anoxia = the loss of oxygen supply to the brain, poisoning coma,
+- brain death = total absense of brain stem reflexes with a flag EEG and inability to initiate breathing, blood to the brain stops and after 6 hours to a day neurons quickly degenerate and melt away erasing memories
+- coma patients first recorver the sleep-wake cycle then consciousness then communication then intentional behavior
+- vegetative state = sleep-wake cycle but not consciousness, comes from vegetate = live a physical life void of intellecetual activity or social
+- locked-in syndrome=minimal consciousness state. with computerized devices people can answer emails etc.
+- some vegatative patients exhibit a conscious brain when scanned. They were able to answer 5/20 questions by changing their response at appropriate times
+- brain-computer interfaces based on electroencephalography = amplifies electrical signals from the head surface
+- mismatch response/mismatch negativity (MMN wave) shows up as a negative voltage at the top of the head when something unexpected occurs like a "boop" in the middle of "beep beep beep" or a cell phone during a concert
+  - automatic response to an auditory novelty that occurs when attending to something or not = novelty detector
+  - **to detect deviant sounds, it unconsciously compares the current stimulus to a prediction based on past sounds**
+  - if you start repeating the same deviant noise in a pattern the MMN wave continues but the p3 consciousness wave disappears
+- positron emission tomography (PET) = detector of high-energy gamme rays used to measure how much glucose is consumed in the body
+- people are able to recover from comas/vegetative states and we see that long distance connections have grown back in. So if the right connections grow then they can regain consciousness
+  - agents that act on the dopamine circuits are prime candidates for recovery. They are used in the brain's reward circuits and send projections to the prefrontal cortex that control our voluntary actinos
+  - a sleeping pill was given to one man and he awoke, moved and began to speak. One woman took a sleeping pill, woke up, spoke, answered questions ,counted named objects then fell asleep and the next morning couldn't and it repeated every morning whenever she got the sleeping pill
+### Chapter 7
+- at around 6.5 months in the womb the baby's cortex starts to form and to fold
+- in the newborn long distance connectinos between cortical regions are already formed. They process information just slower than adults
+- from birth babies promote self-organization of spontaneous neuronal activity
+- babies immensely attracted to language even in the womb, brain activity not limited to the auditory region when listening to their mother's voice
+- babies have a verbal working memory by tracking brain activity (a sign of consciousness)
+- a varied version of the beep beep boop test (aa aa ee with faces to make the babies pay attention) shows the P3 wave activating to sort out the irregularities
+- latency of brain responses for babies is dramatically slower than in adults
+  - about 0.3 seconds to register a vowel change and to generate an unconscious mismatch response
+  - 1 second for the prefront cortex to react to a global novelty (about 4x longer)
+  - replicated this slower latency with face recognition in babies using masked images. The threshold was about 2x longer in order to be seen
+- monkeys can be trained to report what they see by pressing keys on a computer by rewarding them
+  - they too only see one image at a time (experiment with two images one into each eye)
+  - masking also works
+  - monkeys also able to hold on to information however they are more likely to be distracted. Humans are superioir in our ability to inhibit distraction (ex: watching a movie)
+- metacognition = knowing the limits of one's own knowledge, assigning beliefs or confidence to our own thoughts
+  - monkeys, dolphins, rats, pigeons posses some of it
+    - the dolphin uses the third option only when the dolphin knows that it doesn't know what the first two will do?
+      - Or this could just be overfitting that press the third if the third is available
+      - However behavior shows that they are more intelligent than reward alone would predict
+- human unique in our ability to compose our thoughts, think about new ideas and share them with others
+  - special knack for assigning symbols to mental representations and entering them into novel combinations ex: taller than Tom, left of the red door, not given to John
+    - **size (tall) person (Tom) space (left) color (red) object (door) logic (not) action (give) all initally encoded by a distinct brain circuit. The human brain assembled them at will**
+- humans think about what others are thinking and generalize what they know to what others know
+- recursive function of human language allows nested thoughts inaccessible to other species ex: He thinks that I do not know that he lies
+- **humans have more connections in the prefrontal cortex so more agile in collection and integrating information from all over the brain allowing introspection and self-oriented thinking detached from the external world**
+  - more long distance connections
+  - more broadley spaced language neurons sending long-distance projections compared to other animals
+- schizophrenic patient exhibit dramatic overconfidence
+  - capacity for conscious ignition is reduced. lack the massive synchronous activation that causes the p3 wave. Unconscious masking shows unconscious is just as fast but lack the conscious
+  - activations during rest are much less integrated
+  - fewer spines = loss of connectivity
+  - drugs that block neuronal transmission causes the same symptoms
+  - loss of top-down connectivity = explanation. they have the feed-forward sensory information but not the **global ignition nor control via long distance top-down loops**
+- If I remove everything that isn't true then I'm left with the truth = bidirectional exchange of information
+  - **sensory sends messages upward and higher regions respond with top-down predictions = learning algorithm that accounts for information arising from senses**
+    - learning stops when the higher-level abstractions are so accurate that their predictions fully match the bottom-up inputs
+      - at which point the incoming signal is no longer interesting and thus no longer triggering any learning
+        - **or is it no longer interesting? Maybe error causes attention? No back prop for learning, but creating new programs to replace once we understand why?**
+- schizophrenic patient don't have the top-down feedback so everything feels strange (ex: voices in your head, CIA is watching you)
+- **Computer simulations of the brain**
+  - parallel programs, each dedicated to certain functions. face recongition, movement detection, spatial navigation, speech production, motor guidance
+  - some programs take inputs from inside rather than outside ex: predict if it is likely to deviate from its current goal
+    - computers have this ex: probing battery life, disk space, memory conflicts
+  - What is missing: flexible communication, plasticity and autonomy
+    - communicate with one another
+      - the output of any program would be selected as the focus of interest for the entire organism. Enter the workspace in a slow and serial manner but be able to boardcast the information back to any other program
+        - in current computers this is forbidden as each runs in its own memory space. They don't have a general means of exchanging information / their expert knowledge and know how to interpret it
+    - learning algorithm = plasticity
+      - each program would discover the best use for the information they receive
+      - each would adjust itself to capture the predictive relationships that exist among the programs inputs
+      - discover which of its inputs are worthy of attention
+      - adapt to its environment and be robust to failures
+    - autonomy
+      - in absense of user interaction it would use its own value system to decide what to do / what to give conscious attention to
+      - spontaneous activity
+      - this allows it to set its own goals, explore, learn about its own internal states
+      - free will. machines are deterministic by their organization, state, inputs
+- quantum physics doesn't have any neuroscience evidence or congitive science that its in the brain. We're not exploring all possibilities at the same time. We don't have random twitches (well maybe sometimes)
+- 16 billion cortical neurons
+- **the brain embeds its current inputs into a tapestry of past memories and future goals. Just like Frank and the Robots memory as a holographic array. If you erase part of it, you have all the memories but at half the resolution**
+
+
+
