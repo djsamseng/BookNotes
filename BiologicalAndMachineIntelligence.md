@@ -100,3 +100,65 @@
     - Pattern A connects to the proximal synapses to B -> B becomes active at t+1
 
 ## Chapter 4 - Encoders
+- cochlea converts frequencies and amplitudes of sounds into a sparse set of active neurons
+  - each hair responds to a range of frequencies and the ranges overlap with nearby hair cells
+- encoders
+  - similar data should overlap
+  - the same inputs always produces the same SDR as output
+  - output should have similar sparsity for all inputs. Enough 1 bits to handle noise and subsambling. >= 20 one bits
+  - for noisy signals you want smaller buckets. For precise signals you want bigger buckets
+- cochlea for humans is 20hz to 20khz
+  - log encoding, 1000 to 2000 has smaller effect than 5 to 10
+  - delta encoder, predicting differences
+
+## Chapter 5 - Spatial Pooling Algorithm
+- terminonlogy
+  - column = an SPR for a given cell
+  - receptive field = input space a column can connect to
+  - permanence value = amount of growth (connection strength?) between a mini-column and one of the cells in its receptive field
+  - permanence threshold = if > threshold, fully connected. in range 0 to 1. Not learnable but randomly initialized and fixed per SDR
+  - synapse = junction between cells. synapses on an SDR connect to bits in the input space. a synapse is connected (above threshold), potential (below threshold), unconnected (no ability to connect)
+- algorithm
+  1. input = sensory and/or from other SDRs
+  2. initialize with fixed number of columns (SDRs) to receive that input. Randomly initialize connections from the inputs to the synapses in the SDRs. Randomly initialize permanence thresholds
+  3. determine the number of connected synapses on each column (SDR) that are connected to ON input bits (ie go from the on input bits to the SDR synapses)
+  4. Num connected synapses * boost. boost = dynamically determined by how often a column is active vs its neighbors
+  5. A small percent of columns with the highest activations after boosting become active
+  6. Spatial Pooling learning rule
+  7. Repeat from 3
+- Spatial Pooling learning rule
+  1. For each active column, adjust the permanence values (not threshold, but its actual value?) of all the potential synapses (below threshold)
+  2. Increase the permanence of synapses aligned with active input bits.
+  3. Decreate the permanence of synapses aligned with inactive input bits.
+- Spatial Pooling Pseudocode
+  1. Initialization. Compute potential destination synapses for each column. Done by creating a random input set and represent that by a synapse and assign a random permanence value
+  2. Compute overal with input for each column * boost
+  3. Compute winning dest columns
+  4. Learn
+    1. For winning columns, increase it's permanence if the synapse is active, otherwise decrease. Do not modify non-winning columns
+    2. Boost updates. If a column does not win enough relative to neighbors, increase it's boost and vice versa to encourage more equal winning
+
+## Chapter 6 - Temporal Memory
+- learn sequences of SDRs and make predictions of what the next SDR will be
+- predict current input given previous inputs
+- proximal vs distal dendrite segments
+  - proximal dendrite forms synapses with feed-forward inputs. Linearly sum the active synapses to determine the feed forward activation for this column
+  - distal dendrite forms synapses with cells within the layer. If the sum of the active synapses on a distal segment exceeds a threshold then that cell in the column enters the predicted state
+- Spatial pooling learns feed foward connections between inputs and columns
+- Temporal memory learns connections between cells in the same layer
+- multiple cells per column is like an RNN. 2 cells is an RNN cell. 3 cells would be a 3 step loop back onto itself
+- When an input comes in, if one cell is in a predictive state then it becomes active = I expected that input! If no cells are in a predictive state then they all become active as an unexpected input (I don't know why I activated but I did)
+- When a cell becomes active, it forms connections to a subset of nearby cells that were active immediately prior
+- grow synapses to cells that were previously active (ie from the previous state to the new state)
+- Pseudocode
+  1. Activate predicted columns that match
+  2. Punish predicted columns that don't match
+  3. Reinforce matching predicted columns synapses that contributed. Punish synapses that didn't contribute
+
+## Chapter 7: Voting Across Columns
+- lateral connections allow columns to integrate inputs over space (x,y in an image) so that all columns get the context of the remainder
+- (paper)[https://www.frontiersin.org/articles/10.3389/fncir.2017.00081/full]
+
+## Chapter 8: Location Layer in Grid Cells
+- neocortex learn objects by learning sets of sensory features at locations
+- (follow on paper to chapter 7)[https://www.frontiersin.org/articles/10.3389/fncir.2019.00022/full]
